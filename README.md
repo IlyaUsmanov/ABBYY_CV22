@@ -6,25 +6,25 @@
 
 **Biliniear interpolation**
 
-PSNR: -2.9914229579467078
+* PSNR: -2.9914229579467078
 
-Time elapsed per 1 MP: 0.6456190215948232
+* Time elapsed per 1 MP: 0.6456190215948232
 
 
 **Improved interpolation**
 
-[статья](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1326587&casa_token=TG3mYuZt1VwAAAAA:wlvAKOvwXRlbF74gcgcqA6_pcJpFSAgdQlYLgH9U0lXbpI9WUZ9dW-FRS5sMiwLFjgAK4Ao9i9k&tag=1)
+Оригинальная [статья](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1326587&casa_token=TG3mYuZt1VwAAAAA:wlvAKOvwXRlbF74gcgcqA6_pcJpFSAgdQlYLgH9U0lXbpI9WUZ9dW-FRS5sMiwLFjgAK4Ao9i9k&tag=1)
 
-PSNR: 1.8584490275559498
+* PSNR: 1.8584490275559498
 
-Time elapsed per 1 MP: 0.422766802376174
+* Time elapsed per 1 MP: 0.422766802376174
 
 
 **VNG**
 
-PSNR: 1.4531627459080767
+* PSNR: 1.4531627459080767
 
-Time elapsed per 1 MP: 2.3404172430486105
+* Time elapsed per 1 MP: 2.3404172430486105
 
 
 ## Выводы
