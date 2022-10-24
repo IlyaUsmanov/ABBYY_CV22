@@ -1,16 +1,25 @@
 **Результаты замеров на реализованных методах**
 
 biliniear_interpolation
+
 PSNR: -2.9914229579467078
+
 Time elapsed per 1 MP: 0.6456190215948232
 
+
 improved_interpolation
+
 PSNR: 1.8584490275559498
+
 Time elapsed per 1 MP: 0.422766802376174
 
+
 VNG
+
 PSNR: 1.4531627459080767
+
 Time elapsed per 1 MP: 2.3404172430486105
+
 
 **Выводы**
 
