@@ -6,7 +6,7 @@
 
 ### Восстановленные изображение
 
-В папке results
+В папке [results](https://github.com/IlyaUsmanov/ABBYY_CV22_Demosaicing/tree/main/results)
 
 ### PSNR и время работы
 
