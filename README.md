@@ -12,6 +12,7 @@ Time elapsed per 1 MP: 0.6456190215948232
 
 
 **Improved interpolation**
+
 [статья](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1326587&casa_token=TG3mYuZt1VwAAAAA:wlvAKOvwXRlbF74gcgcqA6_pcJpFSAgdQlYLgH9U0lXbpI9WUZ9dW-FRS5sMiwLFjgAK4Ao9i9k&tag=1)
 
 PSNR: 1.8584490275559498
