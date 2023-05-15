@@ -1,0 +1,3 @@
+time per point for Harris is 3.2751487551574794 microseconds
+time per point for SIFT is 36.349409225581724 microseconds
+time per point for BRISK is 8.02585908632578 microseconds
